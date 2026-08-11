@@ -75,7 +75,7 @@ Effort is your call. We want to see judgment, not hours.
 
 - Send a single link (repo or Notion page) that contains everything above
 - Include a working email so we can reach you
-- **Deadline:** [date]
-- **Submit to:** [link / email]
+- **Deadline:** 25 August 2026
+- **Submit to:** gerdrn+hiring@gmail.com
 
-Questions? Send them to [contact]. We answer publicly so all candidates see the same information.
+Questions? Send them to gerdrn+hiring@gmail.com. We answer publicly so all candidates see the same information.

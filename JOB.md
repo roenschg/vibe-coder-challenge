@@ -42,6 +42,8 @@ This is an **open competition**. Complete the coding challenge (see brief) and s
 6. Walkthrough video (5–10 min): what you built, why, business risk
 7. One-paragraph business note: what would you charge for this feature?
 
-**Submission link and full brief:** [link]
+**Submission link and full brief:** https://github.com/roenschg/vibe-coder-challenge
 
-**Deadline:** [date]
+**Deadline:** 25 August 2026
+
+**Contact:** gerdrn+hiring@gmail.com
